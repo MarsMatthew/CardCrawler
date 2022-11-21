@@ -1,6 +1,6 @@
 # Individual 1 term project
 
-### Card Crawler
+# Card Crawler
 
 ![AddImage]()
 
